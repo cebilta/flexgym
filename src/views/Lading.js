@@ -224,7 +224,7 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="....."
-                    src='images/gym.jpeg'
+                    src={images/gym.jpeg}
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "400px" }}
                   />
