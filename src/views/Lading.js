@@ -2,7 +2,7 @@ import React from "react";
 
 import Navbar from "../components/Navbar.js";
 import Footer from "../components/Footer.js";
-import logos from "./gym.jpeg";
+
 
 
 export default function Landing() {
@@ -154,7 +154,7 @@ export default function Landing() {
                   <img
                     
                     alt="..."
-                    src={logos}
+                    src='images/gym.jpeg'
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "400px" }}
                   />
@@ -192,7 +192,7 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src={logos}
+                    src='images/gym.jpeg'
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "400px" }}
                   />
@@ -224,7 +224,7 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="....."
-                    src={logos}
+                    src='images/gym.jpeg'
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "400px" }}
                   />
