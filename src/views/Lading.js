@@ -156,7 +156,7 @@ export default function Landing() {
                     alt="..."
                     src={logos}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxheigth: "400px" }}
+                    style={{ maxheigth: "200px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
