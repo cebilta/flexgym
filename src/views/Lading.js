@@ -151,7 +151,7 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src={require("assets/img/gym.jpeg")}
+                    src="assets/img/gym.jpeg"
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "300px" }}
                   />
@@ -189,7 +189,7 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src={require("assets/img/gym.jpeg")}
+                    src="assets/img/gym.jpeg"
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "240px" }}
                   />
@@ -221,7 +221,7 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src={require("assets/img/gym.jpeg")}
+                    src="assets/img/gym.jpeg"
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxheigth: "240px" }}
                   />
