@@ -153,7 +153,7 @@ export default function Landing() {
                     alt="..."
                     src={require("assets/img/gym.jpeg")}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxWidth: "240px" }}
+                    style={{ maxheigth: "300px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
@@ -191,7 +191,7 @@ export default function Landing() {
                     alt="..."
                     src={require("assets/img/gym.jpeg")}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxWidth: "240px" }}
+                    style={{ maxheigth: "240px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
@@ -223,7 +223,7 @@ export default function Landing() {
                     alt="..."
                     src={require("assets/img/gym.jpeg")}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxWidth: "240px" }}
+                    style={{ maxheigth: "240px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
