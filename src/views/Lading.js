@@ -2,6 +2,8 @@ import React from "react";
 
 import Navbar from "../components/Navbar.js";
 import Footer from "../components/Footer.js";
+import logos from "./gym.jpeg";
+
 
 export default function Landing() {
   
@@ -150,10 +152,11 @@ export default function Landing() {
               <div className="w-full md:w-4/12 lg:mb-0 mb-12 px-4" data-aos="flip-right">
                 <div className="px-6">
                   <img
+                    
                     alt="..."
-                    src={require("./assets/gym.jpeg")}
+                    src={logos}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxheigth: "300px" }}
+                    style={{ maxheigth: "400px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
@@ -189,9 +192,9 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src="./assets/gym.jpeg"
+                    src={logos}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxheigth: "240px" }}
+                    style={{ maxheigth: "400px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
@@ -220,10 +223,10 @@ export default function Landing() {
               <div className="w-full md:w-4/12 lg:mb-0 mb-12 px-4" data-aos="flip-right">
                 <div className="px-6">
                   <img
-                    alt="..."
-                    src={require("./assets/gym.jpeg")}
+                    alt="....."
+                    src={logos}
                     className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxheigth: "240px" }}
+                    style={{ maxheigth: "400px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
